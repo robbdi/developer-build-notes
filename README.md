@@ -81,6 +81,26 @@ Msys2 MinGW
 
 # **MacOS**
 
+| Software/SDK | More Info/Installation |
+| ------------ | ---------------------- |
+| Brew | bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" |
+| ------------ | ---------------------- |
+| Azure CLI | [Install](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-macos) |
+| ------------ | ---------------------- |
+| GCP CLI | [Install](https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-437.0.1-darwin-arm.tar.gz) |
+| ------------ | ---------------------- |
+| AWS CLI | [Install](https://awscli.amazonaws.com/AWSCLIV2.pkg) |
+| ------------ | ---------------------- |
+| .NET 7 | [Install](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.305-macos-arm64-installer) |
+| ------------ | ---------------------- |
+| Python 3 | ---------------------- |
+| Visual Studio Code | [Install](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) |
+| ------------ | ---------------------- |
+| ------------ | ---------------------- |
+| ------------ | ---------------------- |
+| ------------ | ---------------------- |
+| ------------ | ---------------------- |
+
 Brew /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 Azure CLI Install the Azure CLI for macOS brew update && brew install azure-cli

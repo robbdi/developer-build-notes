@@ -19,9 +19,9 @@ Windows Terminal Install Windows Terminal
 
 Python 3
 
-GCP CLI [Google Cloud CLI installer](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe)
+GCP CLI [Download](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe)
 
-AWS CLI msiexec.exe [Download](https://awscli.amazonaws.com/AWSCLIV2.msi)
+AWS CLI [Download](https://awscli.amazonaws.com/AWSCLIV2.msi)
 
 Visual Studio Code 
 

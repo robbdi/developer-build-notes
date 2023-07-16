@@ -3,6 +3,10 @@
 
 # **Windows**
 
+| Software/SNK | More Info/Installation |
+| ------------ | ---------------------- |
+| High         | Low                    |
+
 Visual Studio 2022 Community Edition with UWP Community 2022
 
 .NET Desktop

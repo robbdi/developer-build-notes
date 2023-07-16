@@ -5,6 +5,34 @@
 
 | Software/SNK | More Info/Installation |
 | ------------ | ---------------------- |
+| Visual Studio 2022 Community Edition with UWP         | [More Info](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&cid=2030&passive=false)                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
+| High         | Low                    |
+| ------------ | ---------------------- |
 | High         | Low                    |
 
 Visual Studio 2022 Community Edition with UWP Community 2022

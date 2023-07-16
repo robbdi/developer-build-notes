@@ -34,6 +34,46 @@ Chrome
 
 FileZilla
 
+
+
+
+
+
+MacOS
+
+Brew /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+Azure CLI Install the Azure CLI for macOS brew update && brew install azure-cli
+
+GCP CLI google-cloud-cli-437.0.1-darwin-arm.tar.gz
+
+AWS CLI https://awscli.amazonaws.com/AWSCLIV2.pkg
+
+.NET 7 .NET SDK Arm64 (Apple Silicon)
+
+Python 3
+
+Visual Studio Code
+
+Firefox
+
+Edge
+
+Chrome
+
+FileZilla
+
+7-zip
+
+Postman Mac Apple Chip curl -o- "https://dl-cli.pstmn.io/install/osx_arm64.sh" | sh
+
+SQLectron
+
+Github Desktop - 
+Git - brew install git
+Curl - brew install curl
+
+
 7-zip
 
 Postman 

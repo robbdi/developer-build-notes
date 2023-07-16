@@ -7,7 +7,7 @@ Visual Studio 2022 Community Edition with UWP [Community 2022](https://visualstu
 
 .NET 4.8 [net48](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 
-Azure CLI [Install the Azure CLI for Windows](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
+Azure CLI [Install the Azure CLI for Windows]([https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli](https://aka.ms/installazurecliwindows))
 
 Windows App SDK for C# workloads [https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/set-up-your-development-environment?tabs=cs-vs-community%2Ccpp-vs-community%2Cvs-2022-17-1-a%2Cvs-2022-17-1-b](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/set-up-your-development-environment?tabs=cs-vs-community%2Ccpp-vs-community%2Cvs-2022-17-1-a%2Cvs-2022-17-1-b)
 

@@ -3,7 +3,7 @@
 
 # **Windows**
 
-| Software/SNK | More Info/Installation |
+| Software/SDK | More Info/Installation |
 | ------------ | ---------------------- |
 | Visual Studio 2022 Community Edition with UWP         | [More Info](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&cid=2030&passive=false)                    |
 | .NET 4.8         | [More Info](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)                    |
